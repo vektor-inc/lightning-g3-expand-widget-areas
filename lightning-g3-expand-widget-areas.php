@@ -7,7 +7,7 @@
  * Author URI:
  * Text Domain:     lightning-g3-expand-widget-areas
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.1.1
  *
  * @package         Lightning_G3_Expand_Widget_Areas
  */
